@@ -6,7 +6,7 @@
 
 | 임정렬 ✨(FE 팀장)                   | 이예진 (FE)                           | 손설희 (FE)                        | 신동민 ✨(BE 부팀장)                             | 오동석 (BE)                             | 설주연 (BE)                                  |
 | ------------------------------------ | ------------------------------------- | ---------------------------------- | ------------------------------------------------ | --------------------------------------- | -------------------------------------------- |
-| [@MSbtff](https://github.com/MSbtff) | [@yeendy](https://github.com/yeeendy) | [@nuyhv](https://github.com/nuyhv) | [@JangJeonggyu](https://github.com/JangJeonggyu) | [cokadood](https://github.com/cokadood) | [@moon710274](https://github.com/moon710274) |
+| [@kay0829](https://github.com/kay0829) | [@yeeendy](https://github.com/yeeendy) | [@SonSeolHui](https://github.com/SonSeolHui) | [@ehdals0405](https://github.com/ehdals0405) | [@ods2080](https://github.com/ods2080) | [@seoljuyeon](https://github.com/seoljuyeon) |
 
 <hr>
 
@@ -28,6 +28,4 @@
 
 ### 🗂️ Pages
 
-![스크린샷 2023-08-23 오전 10 59 31](https://user-images.githubusercontent.com/86533373/262527916-f1f5666d-4b67-44f4-8cb3-ad5889d5c1e3.png)
-![스크린샷 2023-08-23 오전 11 00 17](https://user-images.githubusercontent.com/86533373/262527926-5368ef58-ac3f-4104-95aa-defffb992b61.png)
-![스크린샷 2023-08-23 오전 11 07 29](https://user-images.githubusercontent.com/86533373/262527934-37216224-5fa9-4071-b901-97dfda1439ae.png)
+
